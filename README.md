@@ -16,9 +16,8 @@
 
 ## 🚀 Projects
 
-- **[AI Travel Planner](https://github.com/yourusername/ai-travel-planner):** A React + Supabase app that helps users plan travel using AI.
-- **[Recipe Rating App](https://github.com/yourusername/recipe-app):** Firebase-powered platform for discovering and rating recipes.
-- **[Google Clone](https://github.com/yourusername/google-clone):** A search engine clone with custom search and pagination features.
+- **[PharmacyMIS](https://pharmacymis.com):** A React + Supabase app that helps pharmacy owners manage their pharmacies online.
+
 
 > Check out more in my [Repositories](https://github.com/wasaanyi?tab=repositories)
 
