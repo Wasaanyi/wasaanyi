@@ -33,8 +33,7 @@
 ---
 
 ## 🧠 Fun Facts
-
-- 🧩 I enjoy solving coding challenges on platforms like LeetCode and HackerRank.  
+  
 - 🎵 I love music and occasionally explore building music-related apps.  
 - 🌍 I’m passionate about using tech to solve real-world problems.
 
@@ -42,9 +41,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- ✉️ your.email@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/jameswasaanyi)  
+- ✉️ jwasaanyi@gmail.com
 
 ---
 
