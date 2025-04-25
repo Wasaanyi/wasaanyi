@@ -17,10 +17,10 @@ Welcome to my GitHub profile! 🚀
 ## 📈 GitHub Stats
 ![Wasaanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasaanyi&show_icons=true&theme=radical)
 
-## 🏆 Achievements
-- Contributed to several open-source projects.
-- Built projects that help developers work more efficiently.
-- Active participant in hackathons and coding challenges.
+## 🌱 Currently Learning
+- AI Engineering with Open Source Models  
+- Building Scalable Full-stack Applications  
+- Testing with Cypress and Jest  
 
 ## 📫 Let's Connect!
 - 📧 Email: [jwasaanyi@gmail.com](mailto:jwasaanyi@gmail.com)
