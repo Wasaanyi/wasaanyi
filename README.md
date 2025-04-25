@@ -1,51 +1,38 @@
-# 👋 Hi, I'm James Wasaanyi!
+# Hi there, I'm James Wasaanyi! 👋
 
-🎓 A Software Engineer passionate about building scalable web applications, intuitive user interfaces, and meaningful user experiences.
+Welcome to my GitHub profile! 🚀
 
----
+## 👩‍💻 About Me
+- 🌟 Passionate about technology, coding, and open-source contributions.
+- 💡 Always curious and eager to learn new technologies.
+- 🌍 Focused on building solutions that make a positive impact.
 
-## 🧰 Tech Stack
-
-- **Languages:** JavaScript, Python, TypeScript, Java  
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, TypeScript, and more.
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Tailwind CSS  
-- **Databases:** PostgreSQL, MongoDB, Supabase, Firebase  
-- **Tools & Platforms:** Git, GitHub, Docker, Vercel, Netlify, VS Code  
+- **DevOps:** Docker, Kubernetes, CI/CD pipelines, GitHub Actions.
+- **Databases:** PostgreSQL, MySQL, Supabase, Firebase.
 - **Other Skills:** RESTful APIs, CI/CD, Cloud Functions, Unit Testing, Agile/Scrum  
 
----
+## 📈 GitHub Stats
+![Wasaanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasaanyi&show_icons=true&theme=radical)
 
-## 🚀 Projects
+## 🏆 Achievements
+- Contributed to several open-source projects.
+- Built projects that help developers work more efficiently.
+- Active participant in hackathons and coding challenges.
 
-- **[PharmacyMIS](https://pharmacymis.com):** A React + Supabase app that helps pharmacy owners manage their pharmacies online.
+## 📫 Let's Connect!
+- 📧 Email: [jwasaanyi@gmail.com](mailto:jwasaanyi@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/jameswasaanyi)
 
-
-> Check out more in my [Repositories](https://github.com/wasaanyi?tab=repositories)
-
----
-
-## 🌱 Currently Learning
-
-- AI Engineering with Open Source Models  
-- Building Scalable Full-stack Applications  
-- Testing with Cypress and Jest  
-
----
-
-## 🧠 Fun Facts
-  
-- 🎵 I love music and occasionally explore building music-related apps.  
-- 🌍 I’m passionate about using tech to solve real-world problems.
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/jameswasaanyi)  
-- ✉️ jwasaanyi@gmail.com
-
----
+## 💡 Fun Fact
+I believe in continuous learning and the power of collaboration. Let's build something amazing together!
 
 ⭐️ *Thanks for stopping by! Don’t forget to leave a star on a project you like!* ⭐️
+
+---
+⭐️ From [Wasaanyi](https://github.com/Wasaanyi)
 
 
 <!--
