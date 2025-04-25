@@ -12,7 +12,9 @@ Welcome to my GitHub profile! 🚀
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Tailwind CSS  
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines, GitHub Actions.
 - **Databases:** PostgreSQL, MySQL, Supabase, Firebase.
-- **Other Skills:** RESTful APIs, CI/CD, Cloud Functions, Unit Testing, Agile/Scrum  
+- **Other Skills:** RESTful APIs, CI/CD, Cloud Functions, Unit Testing, Agile/Scrum
+
+> Check out more in my [Repositories](https://github.com/wasaanyi?tab=repositories)
 
 ## 📈 GitHub Stats
 ![Wasaanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasaanyi&show_icons=true&theme=radical)
@@ -24,15 +26,12 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 Let's Connect!
 - 📧 Email: [jwasaanyi@gmail.com](mailto:jwasaanyi@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/jameswasaanyi)
+- 💼 LinkedIn: [linkedin.com/in/jameswasaanyi](https://linkedin.com/in/jameswasaanyi)
 
 ## 💡 Fun Fact
 I believe in continuous learning and the power of collaboration. Let's build something amazing together!
 
 ⭐️ *Thanks for stopping by! Don’t forget to leave a star on a project you like!* ⭐️
-
----
-⭐️ From [Wasaanyi](https://github.com/Wasaanyi)
 
 
 <!--
