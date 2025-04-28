@@ -16,9 +16,6 @@ Welcome to my GitHub profile! 🚀
 
 > Check out more in my [Repositories](https://github.com/wasaanyi?tab=repositories)
 
-## 📈 GitHub Stats
-![Wasaanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasaanyi&show_icons=true&theme=radical)
-
 ## 🌱 Currently Learning
 - AI Engineering with Open Source Models  
 - Building Scalable Full-stack Applications  
